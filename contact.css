@@ -1,0 +1,22 @@
+.contact-main-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow: 1;
+}
+
+#map {
+    height: 600px;
+    width: 100%;
+    margin: 0;
+}
+
+.time-text {
+    font-size: 3.5em;
+    font-weight: bold;
+    margin: 0;
+}
+
+.accent-text {
+    color: #BC3A80;
+}
