@@ -6,9 +6,10 @@
 }
 
 #map {
-    height: 600px;
-    width: 100%;
+    height: 400px;
+    width: 500px;
     margin: 0;
+    padding: 0;
 }
 
 .time-text {
@@ -19,4 +20,11 @@
 
 .accent-text {
     color: #BC3A80;
+}
+
+
+.subtitle2 {
+    font-weight: 400;
+    font-size: .3em;
+    margin-bottom: 1.5rem;
 }

@@ -58,8 +58,9 @@ body {
 
 .main-footer {
     color: white;
-    height: 70px;
-    background-color: rgb(44, 44, 44)
+    height: 40px;
+    background-color: rgb(44, 44, 44);
+    font-weight: bold;
 }
 
 .main-footer, .container {
