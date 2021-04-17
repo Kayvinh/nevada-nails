@@ -25,6 +25,11 @@ body {
     text-decoration: none;
 }
 
+.resize {
+    height: 5em;
+    width: 5em;
+}
+
 .brand-logo-name {
     margin-left: 1rem;
 }
