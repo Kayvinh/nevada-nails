@@ -1,0 +1,76 @@
+.menu-main-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.service-container {
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    width: 800px;
+    flex-wrap: wrap;
+}
+
+.service-title {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid gray;
+}
+
+.line {
+    border-top: 1px solid gray;
+}
+
+.service-item {
+    display: flex;
+    justify-content: center;
+    font-size: 1.2em;
+    padding: 0.5em;
+}
+
+.service-name, .service-price{
+    flex: 1;
+    text-align: center;
+}
+
+
+.service-description {
+    font-size: 0.9em;
+    text-align: center;
+    width: 70%;
+    margin: 5px auto;
+}
+
+.greentea {
+    color: #65eb22;
+}
+
+.lavendar {
+    color: rgb(202, 21, 202);
+}
+
+.jasmine {
+    color: rgb(211, 201, 114);
+}
+
+.lemon {
+    color: rgb(224, 224, 6);
+}
+
+.cucumber {
+    color: green;
+}
+
+.coco {
+    color: gold;
+}
+
+.pom {
+    color: #660c21;
+}
+
+.hemp {
+    color: #baa566;
+}
